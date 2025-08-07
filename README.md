@@ -1,4 +1,3 @@
-```markdown
 # Car Sale Contract Software
 
 ![Software Logo](https://github.com/fcoinnet/carsalecontract/raw/main/logo.png)
@@ -192,4 +191,3 @@ Here is how to say "**Car Sale Contract Software**" in different languages:
 | Thai                  | ซอฟต์แวร์สัญญาขายรถยนต์                         |
 | Vietnamese            | Phần mềm Hợp đồng Bán xe                          |
 | Indonesian            | Perangkat Lunak Perjanjian Jual Mobil             |
-```
