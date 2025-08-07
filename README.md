@@ -143,7 +143,7 @@ This software is proudly developed by the team at **[fcoinnet.com](https://fcoin
 You can download a ready-to-edit car sale contract template here:  
 - 📄 [Download English Contract (PDF)](https://github.com/fcoinnet/carsalecontract/raw/main/contract/en.pdf)  
 - 📄 [Download Arabic Contract (PDF)](https://github.com/fcoinnet/carsalecontract/raw/main/contract/ar.pdf)  
-- 📄 [Download German Contract (PDF)](https://github.com/fcoinnet/carsalecontract/raw/main/contract/de.pdf)  
+- 📄 [Download Russian Contract (PDF)](https://github.com/fcoinnet/carsalecontract/raw/main/contract/ru.pdf)  
 - 📄 [Download Chinese (Mandarin) Contract (PDF)](https://github.com/fcoinnet/carsalecontract/raw/main/contract/zh.pdf)  
 
 ---
